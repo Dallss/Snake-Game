@@ -1,2 +1,5 @@
 # Snake-Game
-C++ snake game using SFML library
+
+-Console-based snake game.
+-C++ snake game powered by SFML library.
+
